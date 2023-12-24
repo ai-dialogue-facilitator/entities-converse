@@ -1,0 +1,9 @@
+{
+  "attendees": [
+    {"name": "Alex", "role": "user"},
+    {"name": "Machina", "role": "user"},
+    {"name": "Protagonist","role": "assistant", "id": ""},
+    {"name": "Antagonist", "role": "assistant", "id": ""},
+    {"name": "Agnostic", "role": "assistant", "id": ""}
+  ]
+}

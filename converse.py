@@ -13,8 +13,9 @@ def main():
                         role="user",
                         instructions="")
 
-    facilitator_instructions = "This is a moderator instructions."
-    facilitator = Participant(name="moderator",
+    facilitator_instructions = ("This is a facilitator"
+                                " instructions.")
+    facilitator = Participant(name="facilitator",
                             role="assistant",
                             instructions=facilitator_instructions)
 
