@@ -1,0 +1,8 @@
+{
+  "participants": [
+    {"name": "Alex", "role": "user",
+      "instructions": ""},
+    {"name": "Machina", "role": "user",
+      "instructions": ""}
+  ]
+}

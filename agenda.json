@@ -1,5 +1,12 @@
 {
   "agenda": {
-    "topic": "Can human nature be changed?"
+    "topic": "What is meta-inference?",
+    "attendees": [
+      {"name": "Alex", "role": "user"},
+      {"name": "Machina", "role": "user"},
+      {"name": "Protagonist","role": "assistant"},
+      {"name": "Antagonist", "role": "assistant"},
+      {"name": "Agnostic", "role": "assistant"}
+    ]
   }
 }
